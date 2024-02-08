@@ -1,5 +1,8 @@
 # StatefulReconnection
 Based on https://github.com/SteveSandersonMS/StatefulReconnection
+For .NET 7.0, only.
+
+This is an alternative UX to the default Blazor Server experience, when the SignalR/WebSocket connection to the server is disconnected.
 
 ## Test out examples in App.razor
 
